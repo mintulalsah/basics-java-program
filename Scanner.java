@@ -1,4 +1,4 @@
-package mintu;
+package mintu;//add ur package name
 
 import java.io.BufferedReader;
 import java.io.InputStream;
